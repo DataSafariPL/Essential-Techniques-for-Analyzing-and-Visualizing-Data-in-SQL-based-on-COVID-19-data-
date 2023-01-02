@@ -1,4 +1,4 @@
-In this project, **I focused on optimizing my SQL workflow and analyzing and visualizing COVID-19 data**. I used a variety of techniques to analyze the data, such as filtering and using aggregate functions. I also joined tables and created views for storing data for later visualization. I organized the data and did simple calculations with it. I also worked with temporary tables and used comments in my code. 
+In this project, **I focused on optimizing MY SQL workflow and analyzing and visualizing COVID-19 data**. I used a variety of techniques to analyze the data, such as filtering and using aggregate functions. I also joined tables and created views for storing data for later visualization. I organized the data and did simple calculations with it. I also worked with temporary tables and used comments in my code. 
 I also used a virtual table and organized my SQL code in a repository like GitHub.
 
 **Here are some key points from the description of this project:**
