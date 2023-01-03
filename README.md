@@ -19,6 +19,7 @@ I also used a virtual table and organized my SQL code in a repository like GitHu
 14. Using comments in code to track progress
 15. Using specific comments in a portfolio project
 16. Using a filter to look at data from specific countries
+17. Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Optimizing SQL Workflow:**
 
